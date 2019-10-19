@@ -1,0 +1,814 @@
+﻿Log file open, 10/12/19 22:42:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SkillTree
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279934
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.085s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Nitrogen420 -epicuserid=b66ed01d48fe491c8d6e3431790f8c14 -epiclocale=en-US
+LogInit: Base Directory: D:/Unreal Engines/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.12-19.42.28:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:742][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.12-19.42.28:745][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.12-19.42.28:745][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.12-19.42.28:751][  0]LogHAL: Display: Platform has ~ 32 GB [34286804992 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.10.12-19.42.28:751][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.12-19.42.28:751][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.12-19.42.28:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.12-19.42.28:752][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.12-19.42.28:752][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/SkillTree/Saved/Config/Windows/Engine.ini]
+[2019.10.12-19.42.28:752][  0]LogInit: Computer: DESKTOP-6LTGJLU
+[2019.10.12-19.42.28:752][  0]LogInit: User: PC
+[2019.10.12-19.42.28:752][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.12-19.42.28:752][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.12-19.42.28:753][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.12-19.42.28:753][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.12-19.42.28:753][  0]LogMemory: Process Physical Memory: 103.22 MB used, 103.23 MB peak
+[2019.10.12-19.42.28:753][  0]LogMemory: Process Virtual Memory: 85.82 MB used, 85.82 MB peak
+[2019.10.12-19.42.28:753][  0]LogMemory: Physical Memory: 12576.07 MB used,  20122.37 MB free, 32698.45 MB total
+[2019.10.12-19.42.28:753][  0]LogMemory: Virtual Memory: 4644.47 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.10.12-19.42.28:774][  0]LogInit: Using OS detected language (en-US).
+[2019.10.12-19.42.28:774][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.12-19.42.28:776][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.12-19.42.29:066][  0]LogStreaming: Display: Took  0.292s to InitEngineTextLocalization.
+[2019.10.12-19.42.29:066][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.12-19.42.29:096][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.12-19.42.29:096][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.12-19.42.29:460][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.12-19.42.29:460][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.12-19.42.29:510][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.10.12-19.42.29:510][  0]LogD3D11RHI:       11127/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.12-19.42.29:513][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.12-19.42.29:513][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.12-19.42.29:513][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.12-19.42.29:520][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.12-19.42.29:520][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.12-19.42.29:520][  0]LogWindows: EnumDisplayDevices:
+[2019.10.12-19.42.29:521][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.10.12-19.42.29:521][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.10.12-19.42.29:521][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.10.12-19.42.29:521][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.10.12-19.42.29:522][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.12-19.42.29:522][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.10.12-19.42.29:522][  0]LogD3D11RHI:   Driver Version: 436.02 (internal:26.21.14.3602, unified:436.02)
+[2019.10.12-19.42.29:522][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2019.10.12-19.42.29:522][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.10.12-19.42.29:555][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.12-19.42.29:571][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.12-19.42.30:000][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.12-19.42.30:011][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.12-19.42.30:022][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.12-19.42.30:033][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.12-19.42.30:045][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.12-19.42.30:056][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.12-19.42.30:067][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.12-19.42.30:078][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.12-19.42.30:083][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.12-19.42.30:141][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.12-19.42.30:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.12-19.42.30:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.12-19.42.30:213][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.12-19.42.30:214][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.12-19.42.30:224][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.12-19.42.30:236][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.12-19.42.30:245][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.12-19.42.30:257][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.12-19.42.30:296][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.12-19.42.30:296][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.12-19.42.30:296][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.12-19.42.30:351][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal Projects/SkillTree/Intermediate/Shaders/WorkingDirectory/14036/).
+[2019.10.12-19.42.30:351][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/539D8412426F2FE09918F28A86015EA8/'.
+[2019.10.12-19.42.30:353][  0]LogXGEController: Cleaning working directory: C:/Users/PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.12-19.42.30:353][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.12-19.42.30:353][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.12-19.42.30:354][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.12-19.42.30:805][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.12-19.42.30:857][  0]LogDerivedDataCache: Loaded boot cache 0.05s 103MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.12-19.42.30:857][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.10.12-19.42.30:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/SkillTree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.12-19.42.30:857][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.12-19.42.30:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/SkillTree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.12-19.42.30:857][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.12-19.42.30:869][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.12-19.42.30:872][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.10.12-19.42.30:884][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.12-19.42.30:884][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.12-19.42.30:884][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.12-19.42.30:901][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.12-19.42.30:902][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.12-19.42.30:903][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.12-19.42.30:995][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2019.10.12-19.42.31:246][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.12-19.42.31:300][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.12-19.42.31:303][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.12-19.42.31:303][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.12-19.42.31:303][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.12-19.42.31:303][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.12-19.42.31:390][  0]LogNetVersion: SkillTree 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3776770230)
+[2019.10.12-19.42.31:867][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 2 prioritized culture(s) in 0.099446 seconds
+[2019.10.12-19.42.31:872][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.10.12-19.42.31:872][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.10.12-19.42.31:872][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.12-19.42.32:760][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.12-19.42.32:773][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.12-19.42.33:563][  0]SourceControl: Source control is disabled
+[2019.10.12-19.42.33:563][  0]SourceControl: Source control is disabled
+[2019.10.12-19.42.33:564][  0]SourceControl: Source control is disabled
+[2019.10.12-19.42.33:565][  0]SourceControl: Source control is disabled
+[2019.10.12-19.42.33:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.12-19.42.33:876][  0]LogOcInput: OculusInput pre-init called
+[2019.10.12-19.42.33:891][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/SkillTree/Content/Scripts
+[2019.10.12-19.42.33:891][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.10.12-19.42.33:891][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.10.12-19.42.34:057][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.10.12-19.42.34:057][  0]LogPython: 
+
+[2019.10.12-19.42.34:058][  0]LogPython: D:\Unreal Engines\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.10.12-19.42.34:058][  0]LogPython: 
+
+[2019.10.12-19.42.34:113][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.10.12-19.42.34:113][  0]LogPython: 
+
+[2019.10.12-19.42.34:113][  0]LogPython: ue_site Python module successfully imported
+[2019.10.12-19.42.35:600][  0]LogEngine: Initializing Engine...
+[2019.10.12-19.42.35:600][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.12-19.42.35:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.12-19.42.35:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.12-19.42.35:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.12-19.42.35:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.12-19.42.35:771][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.12-19.42.35:783][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.12-19.42.35:844][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-19.42.35:861][  0]LogInit: FAudioDevice initialized.
+[2019.10.12-19.42.35:862][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.12-19.42.35:932][  0]LogDerivedDataCache: Saved boot cache 0.07s 87MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.12-19.42.35:942][  0]LogInit: Texture streaming: Enabled
+[2019.10.12-19.42.35:961][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.12-19.42.35:976][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={172AFB82-4B94-EBE6-5781-6ABD9C07FF9E}
+[2019.10.12-19.42.35:987][  0]LogInit: Transaction tracking system initialized
+[2019.10.12-19.42.36:007][  0]BlueprintLog: New page: Editor Load
+[2019.10.12-19.42.36:076][  0]LocalizationService: Localization service is disabled
+[2019.10.12-19.42.36:413][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.12-19.42.36:414][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.12-19.42.36:414][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.12-19.42.36:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.12-19.42.36:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.12-19.42.36:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.12-19.42.36:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.12-19.42.36:525][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkillTree/Content/' took 0.02s
+[2019.10.12-19.42.37:904][  0]SourceControl: Source control is disabled
+[2019.10.12-19.42.38:035][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.12-19.42.41:406][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.10.12-19.42.41:406][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.12-19.42.41:445][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.12-19.42.42:122][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.10.12-19.42.42:122][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.12-19.42.42:130][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.12-19.42.42:132][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/SkillTree/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.12-19.42.42:132][  0]LightingResults: New page: Lighting Build
+[2019.10.12-19.42.42:135][  0]MapCheck: New page: Map Check
+[2019.10.12-19.42.42:135][  0]LightingResults: New page: Lighting Build
+[2019.10.12-19.42.42:542][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.12-19.42.42:549][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.12-19.42.42:572][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.12-19.42.42:572][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.10.12-19.42.42:572][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.441
+[2019.10.12-19.42.42:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.42.42:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.42.42:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.42.42:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.42.42:657][  0]LogCollectionManager: Loaded 0 collections in 0.002303 seconds
+[2019.10.12-19.42.42:697][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkillTree/Saved/Collections/' took 0.01s
+[2019.10.12-19.42.42:698][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkillTree/Content/Developers/PC/Collections/' took 0.01s
+[2019.10.12-19.42.42:698][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkillTree/Content/Collections/' took 0.01s
+[2019.10.12-19.42.42:698][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.12-19.42.42:707][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2728 classes and 660 folders.
+[2019.10.12-19.42.42:716][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.12-19.42.42:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.12-19.42.42:818][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.12-19.42.42:823][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.12-19.42.42:831][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.10.12-19.42.42:886][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.12-19.42.42:891][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.12-19.42.42:949][  0]LogRenderer: Reallocating scene render targets to support 1192x552 Format 10 NumSamples 1 (Frame:1).
+[2019.10.12-19.42.43:040][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.12-19.42.43:040][  0]LogLoad: (Engine Initialization) Total time: 16.78 seconds
+[2019.10.12-19.42.43:040][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.12-19.42.43:104][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.12-19.42.43:120][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.12-19.42.43:213][  2]LogAssetRegistry: Asset discovery search completed in 12.2396 seconds
+[2019.10.12-19.42.43:214][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.12-19.42.43:214][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.10.12-19.42.43:541][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.10.12-19.42.44:553][  6]LogSlate: Took 0.000671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.12-19.42.55:714][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-19.42.55:802][220]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UI_SkillTree.UI_SkillTree
+[2019.10.12-19.42.56:169][220]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.10.12-19.42.56:768][220]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.10.12-19.42.57:034][220]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UI_SkilltreeSlot.UI_SkilltreeSlot
+[2019.10.12-19.42.57:277][220]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.12-19.42.59:283][370]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.12-19.43.22:094][466]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/CraftResourcesIcons/Border.Border
+[2019.10.12-19.43.22:099][466]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.12-19.43.51:320][525]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.43.55:798][873]BlueprintLog: New page: Compile UI_SkillTree
+[2019.10.12-19.45.06:025][288]BlueprintLog: New page: Compile UI_SkillTree
+[2019.10.12-19.45.17:369][547]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.45.22:151][ 94]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.45.24:356][334]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.45.35:450][168]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.45.38:003][396]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.45.43:039][948]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.45.49:863][736]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.46.05:434][940]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.46.10:519][988]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.46.11:429][ 89]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.46.16:249][537]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.46.17:604][666]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.12-19.46.17:617][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.17:617][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-19.46.17:617][666]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 13, 2019, 1:46:17 AM)
+[2019.10.12-19.46.17:630][666]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.12-19.46.17:644][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013905s)
+[2019.10.12-19.46.17:644][666]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.12-19.46.17:645][666]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.10.12-19.46.17:645][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014802s)
+[2019.10.12-19.46.17:732][666]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-19.46.17:742][666]LogInit: FAudioDevice initialized.
+[2019.10.12-19.46.17:749][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.17:807][666]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.12-19.46.17:809][666]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.12-22.46.17
+[2019.10.12-19.46.17:809][666]LogWorld: Bringing up level for play took: 0.001275
+[2019.10.12-19.46.17:829][666]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.12-19.46.17:840][666]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.39
+[2019.10.12-19.46.17:840][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.17:900][666]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.10.12-19.46.20:860][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.20:860][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.20:867][958]LogSlate: Window 'SkillTree Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.12-19.46.20:899][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-19.46.20:899][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.20:962][959]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.12-19.46.22:536][ 55]LogSlate: Window 'Save Content' being destroyed
+[2019.10.12-19.46.22:563][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/UI_SkillTree" FILE="../../../../../Unreal Projects/SkillTree/Content/ThirdPersonBP/Blueprints/UI_SkillTree.uasset" SILENT=true
+[2019.10.12-19.46.22:594][ 55]LogSavePackage: Moving '../../../../../Unreal Projects/SkillTree/Saved/UI_SkillTree242C4F494DD00591890EA3827CFED86B.tmp' to '../../../../../Unreal Projects/SkillTree/Content/ThirdPersonBP/Blueprints/UI_SkillTree.uasset'
+[2019.10.12-19.46.22:602][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/UI_SkilltreeSlot" FILE="../../../../../Unreal Projects/SkillTree/Content/ThirdPersonBP/Blueprints/UI_SkilltreeSlot.uasset" SILENT=true
+[2019.10.12-19.46.22:617][ 55]LogSavePackage: Moving '../../../../../Unreal Projects/SkillTree/Saved/UI_SkilltreeSlot4EFF08B949A31C1069403C83370787FB.tmp' to '../../../../../Unreal Projects/SkillTree/Content/ThirdPersonBP/Blueprints/UI_SkilltreeSlot.uasset'
+[2019.10.12-19.46.22:855][ 55]LogSavePackage: Moving '../../../../../Unreal Projects/SkillTree/Saved/ThirdPersonExampleMap5BB6B1FE417A57F7FCB1CF91FDFCD3FC.tmp' to '../../../../../Unreal Projects/SkillTree/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.12-19.46.22:865][ 55]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.241
+[2019.10.12-19.46.25:237][246]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.46.31:770][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.12-19.46.31:780][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.31:780][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-19.46.31:780][829]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 13, 2019, 1:46:31 AM)
+[2019.10.12-19.46.31:780][829]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.12-19.46.31:788][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008317s)
+[2019.10.12-19.46.31:789][829]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.12-19.46.31:789][829]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.10.12-19.46.31:789][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008914s)
+[2019.10.12-19.46.31:871][829]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-19.46.31:880][829]LogInit: FAudioDevice initialized.
+[2019.10.12-19.46.31:888][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.31:922][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.12-19.46.31:923][829]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.12-22.46.31
+[2019.10.12-19.46.31:924][829]LogWorld: Bringing up level for play took: 0.001451
+[2019.10.12-19.46.31:943][829]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.287
+[2019.10.12-19.46.31:943][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.32:395][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-19.46.34:734][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.34:734][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.34:741][ 79]LogSlate: Window 'SkillTree Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.12-19.46.34:776][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-19.46.34:776][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.34:846][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.12-19.46.40:943][314]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.46.41:583][384]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.12-19.46.41:592][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.41:592][384]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.12-19.46.41:594][384]LogPlayLevel: [PlayLevel] Compiling UI_SkilltreeSlot before play...
+[2019.10.12-19.46.41:728][384]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2019.10.12-19.46.41:728][384]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 13, 2019, 1:46:41 AM)
+[2019.10.12-19.46.41:728][384]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.12-19.46.41:737][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008482s)
+[2019.10.12-19.46.41:737][384]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.12-19.46.41:737][384]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2019.10.12-19.46.41:737][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009117s)
+[2019.10.12-19.46.41:821][384]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-19.46.41:833][384]LogInit: FAudioDevice initialized.
+[2019.10.12-19.46.41:841][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.41:875][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.12-19.46.41:876][384]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.12-22.46.41
+[2019.10.12-19.46.41:876][384]LogWorld: Bringing up level for play took: 0.001213
+[2019.10.12-19.46.41:894][384]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.337
+[2019.10.12-19.46.41:894][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.42:174][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-19.46.44:073][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.44:073][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.44:080][610]LogSlate: Window 'SkillTree Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.12-19.46.44:112][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-19.46.44:112][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.44:176][613]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.12-19.46.48:411][803]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.46.55:007][545]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.12-19.46.55:016][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.55:016][545]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.12-19.46.55:018][545]LogPlayLevel: [PlayLevel] Compiling UI_SkilltreeSlot before play...
+[2019.10.12-19.46.55:155][545]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2019.10.12-19.46.55:155][545]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 13, 2019, 1:46:55 AM)
+[2019.10.12-19.46.55:155][545]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.12-19.46.55:164][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008773s)
+[2019.10.12-19.46.55:165][545]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.12-19.46.55:165][545]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2019.10.12-19.46.55:165][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009383s)
+[2019.10.12-19.46.55:247][545]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-19.46.55:257][545]LogInit: FAudioDevice initialized.
+[2019.10.12-19.46.55:264][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.55:298][545]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.12-19.46.55:300][545]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.12-22.46.55
+[2019.10.12-19.46.55:300][545]LogWorld: Bringing up level for play took: 0.001609
+[2019.10.12-19.46.55:318][545]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.088
+[2019.10.12-19.46.55:319][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.55:703][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-19.46.57:995][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.57:996][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-19.46.58:003][849]LogSlate: Window 'SkillTree Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.12-19.46.58:036][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-19.46.58:036][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.12-19.46.58:103][852]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.12-19.47.00:989][185]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.47.30:750][686]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.47.34:216][960]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.47.37:486][216]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.12-19.47.39:157][347]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.47.44:357][833]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.47.54:846][ 33]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.48.21:864][113]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.48.29:365][946]BlueprintLog: New page: Compile UI_SkilltreeSlot
+[2019.10.12-19.48.43:234][355]LogBlueprint: Error: [Compiler UI_SkillTree] Binding: Property ' Text Delegate ' on Widget ' TextBlock_168 ': Binding: 'None' : 'None' was not found on 'UI Skill Tree'.
+[2019.10.12-19.48.43:250][355]LogBlueprint: Warning: [Compiler UI_SkillTree] [0376.99] Compile of UI_SkillTree failed. 1 Fatal Issue(s) 0 Warning(s) [in 41 ms] (/Game/ThirdPersonBP/Blueprints/UI_SkillTree.UI_SkillTree)
+[2019.10.12-19.48.44:333][453]BlueprintLog: New page: Compile UI_SkillTree
+[2019.10.12-19.48.44:341][453]LogBlueprint: Error: [Compiler UI_SkillTree] Binding: Property ' Text Delegate ' on Widget ' TextBlock_168 ': Binding: 'None' : 'None' was not found on 'UI Skill Tree'.
+[2019.10.12-19.48.44:484][453]LogBlueprint: Warning: [Compiler UI_SkillTree] [0378.22] Compile of UI_SkillTree failed. 1 Fatal Issue(s) 0 Warning(s) [in 150 ms] (/Game/ThirdPersonBP/Blueprints/UI_SkillTree.UI_SkillTree)
+[2019.10.12-19.48.45:884][599]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_168), cannot focus it
+[2019.10.12-19.48.46:914][719]LogBlueprint: Warning: Unknown type of hyperlinked object (TextDelegate), cannot focus it
+[2019.10.12-19.48.53:533][445]LogEditorTransaction: Undo Remove Graph
+[2019.10.12-19.48.53:573][445]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.12-19.48.53:573][445]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.10.12-19.48.59:082][445]LogWindows: Error: === Critical error: ===
+[2019.10.12-19.48.59:082][445]LogWindows: Error: 
+[2019.10.12-19.48.59:082][445]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp] [Line: 200] 
+[2019.10.12-19.48.59:082][445]LogWindows: Error: Renaming an object (WidgetAnimation /Game/ThirdPersonBP/Blueprints/UI_SkillTree.UI_SkillTree_C:Fade_INST) on top of an existing object (WidgetAnimation /Engine/Transient.TRASHCLASS_UI_SkillTree_176:Fade_INST) is not allowed
+[2019.10.12-19.48.59:082][445]LogWindows: Error: 
+[2019.10.12-19.48.59:082][445]LogWindows: Error: 
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffcb0dd9129 KERNELBASE.dll!UnknownFunction []
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc626ecd1a UE4Editor-Core.dll!FWindowsErrorOutputDevice::Serialize() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:63]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc624ca967 UE4Editor-Core.dll!FOutputDevice::LogfImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc62400df7 UE4Editor-Core.dll!FDebug::AssertFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:417]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc6359e081 UE4Editor-CoreUObject.dll!UObject::Rename() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:200]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc51d4b221 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CleanAndSanitizeClass() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:280]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc37322e5d UE4Editor-UMGEditor.dll!FWidgetBlueprintCompiler::CleanAndSanitizeClass() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprintcompiler.cpp:184]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc51d4f3cd UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileClassLayout() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3941]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc522bc24f UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:950]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc522696d8 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:203]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc397d3efc UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:766]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc369d01ee UE4Editor-Sequencer.dll!FSequencer::RecompileDirtyDirectors() [d:\build\++ue4\sync\engine\source\editor\sequencer\private\sequencer.cpp:9005]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc36981a7a UE4Editor-Sequencer.dll!FSequencer::EvaluateInternal() [d:\build\++ue4\sync\engine\source\editor\sequencer\private\sequencer.cpp:2248]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc36991609 UE4Editor-Sequencer.dll!FSequencer::ForceEvaluate() [d:\build\++ue4\sync\engine\source\editor\sequencer\private\sequencer.cpp:2237]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc37450d78 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::UpdatePreview() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:1000]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc37425d62 UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::RefreshPreview() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:842]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc373ea4ab UE4Editor-UMGEditor.dll!FWidgetBlueprintEditor::OnBlueprintChangedImpl() [d:\build\++ue4\sync\engine\source\editor\umgeditor\private\widgetblueprinteditor.cpp:370]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc52390899 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(UBlueprint * __ptr64)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc52c51e33 UE4Editor-Engine.dll!TBaseMulticastDelegate<void,UBlueprint * __ptr64>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:974]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc39777892 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::MarkBlueprintAsStructurallyModified() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:2178]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc523961cd UE4Editor-Kismet.dll!FixSubObjectReferencesPostUndoRedo() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditormodule.cpp:139]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc3938ffdd UE4Editor-UnrealEd.dll!UEditorEngine::BroadcastPostUndoRedo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:5120]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc393bacf6 UE4Editor-UnrealEd.dll!UEditorEngine::HandleTransactorRedoUndo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:1195]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc393a140c UE4Editor-UnrealEd.dll!TBaseUObjectMethodDelegateInstance<0,UEditorEngine,void __cdecl(FTransactionContext const & __ptr64,bool)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:679]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc3940b427 UE4Editor-UnrealEd.dll!TBaseMulticastDelegate<void,FTransactionContext const & __ptr64,bool>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:974]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc3944f72f UE4Editor-UnrealEd.dll!UTransBuffer::Undo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editortransaction.cpp:1341]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc393e726f UE4Editor-UnrealEd.dll!UEditorEngine::UndoTransaction() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:1410]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc52391168 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc5def206f UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:216]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc5df34c8e UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:160]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc39c66d1e UE4Editor-UnrealEd.dll!FBaseToolkit::ProcessCommandBindings() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\toolkits\basetoolkit.cpp:74]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc39c54cb8 UE4Editor-UnrealEd.dll!SStandaloneAssetEditorToolkitHost::OnKeyDown() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\toolkits\sstandaloneasseteditortoolkithost.cpp:324]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc5deb694c UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_2afcd964c763e269e2d1a63f3a72f846> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:270]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc5df3697c UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5097]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc5df29a36 UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5009]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc83fadaa4 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1666]
+[2019.10.12-19.48.59:082][445]LogWindows: Error: [Callstack] 0x00007ffc83fa0de0 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2281]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffc83fb01eb UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:929]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffc83f9ca19 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:766]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffcb231ca66 USER32.dll!UnknownFunction []
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffcb231c582 USER32.dll!UnknownFunction []
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffc83fb1746 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ff6887a5546 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3615]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ff6887b596c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:174]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ff6887b59ea UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ff6887c48da UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ff6887c659a UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffcb1f57974 KERNEL32.DLL!UnknownFunction []
+[2019.10.12-19.48.59:083][445]LogWindows: Error: [Callstack] 0x00007ffcb459a271 ntdll.dll!UnknownFunction []
+[2019.10.12-19.48.59:083][445]LogWindows: Error: 
+[2019.10.12-19.48.59:090][445]LogExit: Executing StaticShutdownAfterError
+[2019.10.12-19.48.59:092][445]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.10.12-19.48.59:096][445]Log file closed, 10/12/19 22:48:59
